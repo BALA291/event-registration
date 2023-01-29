@@ -374,8 +374,8 @@ line-height: 24px;
 color: #4D18E6;
 ```
 ## OUTPUT:
-![Output](./out01.png)
-![Output](./out02.png)
+![Output](./out01 .png)
+![Output](./out02 .png)
 ![Output](./out03.png)
 
 ## Result:
