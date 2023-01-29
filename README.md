@@ -7,23 +7,29 @@ To design, develop and deploy a web application for event registration.
 
 ### Step 1:
 
+Create a new frame.
 
 ### Step 2:
 
+Select any one preset size of your choice.
 
 ### Step 3:
 
+Select the shapes you need.
 
 ### Step 4:
 
+Import images as needed.
 
 ### Step 5:
+
+Create pages based on your need and link them.
 
 ### Step 6:
 
 Validate the HTML and CSS code.
 
-### Step 6:
+### Step 7:
 
 Publish the website in the given URL.
 
@@ -32,7 +38,7 @@ Publish the website in the given URL.
 Figma
 
 ## PROGRAM :
-'''
+```
 /* Home Page */
 position: relative;
 width: 360px;
@@ -366,7 +372,7 @@ font-size: 20px;
 line-height: 24px;
 
 color: #4D18E6;
-'''
+```
 ## OUTPUT:
 ![Output](./out01.png)
 ![Output](./out02.png)
